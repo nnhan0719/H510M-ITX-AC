@@ -1,0 +1,2 @@
+# H510M-ITX-AC
+OpenCore EFI
